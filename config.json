@@ -1,0 +1,93 @@
+{
+  "264445053596991498": {
+    "prefix": "e[",
+    "delete": "true",
+    "deleteTime": 10000,
+    "volume": 100,
+    "maxVolume": 200,
+    "djonly": false,
+    "djroles": [],
+    "levelup": false
+  },
+  "471591472311828480": {
+    "prefix": "+",
+    "delete": "false",
+    "deleteTime": 10000,
+    "volume": 100,
+    "maxVolume": 200,
+    "djonly": false,
+    "djroles": [],
+    "levelup": false
+  },
+  "472413308813574165": {
+    "prefix": "#",
+    "delete": "true",
+    "deleteTime": 10000,
+    "volume": 100,
+    "maxVolume": 200,
+    "djonly": false,
+    "djroles": [],
+    "levelup": false
+  },
+  "473125470653775872": {
+    "prefix": "#",
+    "delete": "true",
+    "deleteTime": 10000,
+    "volume": 100,
+    "maxVolume": 200,
+    "djonly": false,
+    "djroles": [],
+    "levelup": false
+  },
+  "421312595899711488": {
+    "prefix": "#",
+    "delete": "true",
+    "deleteTime": 10000,
+    "volume": 100,
+    "maxVolume": 200,
+    "djonly": false,
+    "djroles": [],
+    "levelup": false
+  },
+  "454397533037395970": {
+    "prefix": "#",
+    "delete": "true",
+    "deleteTime": 10000,
+    "volume": 100,
+    "maxVolume": 200,
+    "djonly": false,
+    "djroles": [],
+    "levelup": false
+  },
+  "473350874790363149": {
+    "prefix": "#",
+    "delete": "true",
+    "deleteTime": 10000,
+    "volume": 100,
+    "maxVolume": 200,
+    "djonly": false,
+    "djroles": [],
+    "levelup": false
+  },
+  "339375771577614336": {
+    "prefix": "#",
+    "delete": "true",
+    "deleteTime": 10000,
+    "volume": 100,
+    "maxVolume": 200,
+    "djonly": false,
+    "djroles": [],
+    "levelup": false
+  },
+  "607431533539622922": {
+    "prefix": "sc!",
+    "delete": "true",
+    "deleteTime": 10000,
+    "volume": 100,
+    "maxVolume": 200,
+    "djonly": false,
+    "djroles": [],
+    "levelup": false
+  }
+ 
+}
